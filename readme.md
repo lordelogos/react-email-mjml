@@ -1,6 +1,6 @@
-# React Email Starter
+# React Email MJML
 
-A live preview right in your browser so you don't need to keep sending real emails during development.
+A demo wrapper for mjml elements in React-email
 
 ## Getting Started
 
